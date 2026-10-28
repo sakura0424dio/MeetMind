@@ -1,0 +1,13 @@
+dashscope>=1.25.6            # 阿里云百炼SDK[reference:1][reference:2]
+langgraph>=0.2.0             # 多智能体编排框架[reference:3]
+langchain-core>=0.3.0
+openai>=1.0.0                # 兼容OpenAI接口调用百炼[reference:4]
+whisper>=1.1.10              # 或 openai-whisper[reference:5]
+fastapi>=0.115.0
+uvicorn>=0.30.0
+python-dotenv>=1.0.0
+streamlit>=1.38.0            # 用于演示界面
+pydantic>=2.0.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
+websockets>=12.0
